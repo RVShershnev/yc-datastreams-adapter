@@ -1,0 +1,1 @@
+# yc-datastreams-adapter
